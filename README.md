@@ -1,0 +1,1 @@
+# fullstack_docker_app
